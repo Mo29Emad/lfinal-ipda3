@@ -40,8 +40,8 @@ $(window).ready(function () {
         
         rtl: true,
         slidesToShow: 4,
-        nextArrow: ".left",
-        prevArrow: ".right",
+        nextArrow: ".left_",
+        prevArrow: ".right_",
         responsive: [
             {
                 breakpoint: 1024,
